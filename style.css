@@ -1,0 +1,71 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #532a7f;
+    color: white;
+    font-family: Archivo;
+    font-weight: bolder;
+}
+h1{
+    display: inline-block;
+    color: white;
+}
+i{
+    color: white;
+}
+header{
+    text-align: center;
+    padding: 40px; 
+}
+section{
+    align-items: center;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+article{
+    display: none;
+    align-items: center;
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px white solid;
+    padding: 20px;
+}
+.songs{
+    margin-top: 20px;
+    position: relative;
+    display: inline-block;
+    width: 49%;
+    box-sizing: border-box
+}
+ol li{
+    display: block;
+    margin-bottom: 35px;
+    font-size:larger;
+}
+h2, h3 {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding:5px;
+    background-color:#9f74fb;
+    
+  }
+
+.songName{
+    padding: 5px;
+}
+button{
+    width: 120px;
+    height: 60px;
+    display: block;
+    position: relative;
+    margin: auto;
+    background-color: #efefef;
+    border: 0;
+    font-size: large;
+    color: #543483;
+    margin-top: 100px;
+}
